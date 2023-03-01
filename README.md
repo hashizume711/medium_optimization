@@ -1,3 +1,2 @@
 # Description
-
-This folder contains scripts for building a GBDT model that predicts cell status based on the concentration of chemical components in the medium and uses it to select a high-performance medium.
+This folder contains scripts used in Active learning-assisted medium optimization resulted in expected and unexpected outcomes of cell culture by Takamasa Hashizume, Yuki Ozawa and Bei-Wen Ying.
