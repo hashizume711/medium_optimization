@@ -1,2 +1,2 @@
 # Description
-This folder contains scripts used in Active learning-assisted medium optimization resulted in expected and unexpected outcomes of cell culture by Takamasa Hashizume, Yuki Ozawa and Bei-Wen Ying.
+This folder contains scripts used in Employing active learning in the optimization of culture medium for mammalian cells by Takamasa Hashizume, Yuki Ozawa and Bei-Wen Ying.
